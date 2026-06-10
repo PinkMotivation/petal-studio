@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 'use client';
 import React, { useRef, useState } from 'react';
 import CanvasContainer from '../../../components/canvas/CanvasContainer';
