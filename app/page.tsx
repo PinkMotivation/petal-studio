@@ -1,5 +1,5 @@
-export const runtime = 'edge';
 'use client';
+export const runtime = 'edge';
 import React, { useState, useEffect } from 'react';
 import ShelfGrid from '../components/bookshelf/ShelfGrid';
 import JournalWorkspaceView from './journal/[id]/page';
