@@ -17,6 +17,11 @@
     "dexie-react-hooks": "^1.1.7",
     "zustand": "^4.5.0"
   },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1",
+    "postcss": "^8.4.31",
+    "autoprefixer": "^10.4.16"
+  },
   "overrides": {
     "react": "$react",
     "react-dom": "$react-dom"
